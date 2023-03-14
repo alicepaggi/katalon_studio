@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Scopri il motopropulsore</name>
+   <tag></tag>
+   <elementGuidId>11024ec4-71e7-4df7-82d4-7f0a6b715878</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.BtnFocusOn__label__2bc_qABw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/div/div/section/div[4]/button/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a9c30329-2bd7-40cf-b784-93134fc36e77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>BtnFocusOn__label__2bc_qABw</value>
+      <webElementGuid>4102e9fd-36e9-480a-949a-6218f7057ff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scopri il motopropulsore</value>
+      <webElementGuid>548b3271-4297-45b1-9596-f38243871350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;page-menu-hook DefaultPage__page__2K-llOv7&quot;]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/section[@class=&quot;FullEngineVideo__wrapper__3ESWAD0Z theme-ferrari-175&quot;]/div[@class=&quot;FullEngineVideo__action__1Jxi5ii_&quot;]/button[@class=&quot;BtnFocusOn__btn__2uH29qol&quot;]/span[@class=&quot;BtnFocusOn__label__2bc_qABw&quot;]</value>
+      <webElementGuid>34106ebe-5368-4046-a3a3-b3bb3eb84408</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/div/div/section/div[4]/button/span[3]</value>
+      <webElementGuid>ac0ef066-4eb6-4af2-b684-f1f8fd35b2a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POTENZA MASSIMA'])[1]/following::span[3]</value>
+      <webElementGuid>3a838ac8-f360-4207-a938-4ea79f029ea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cv'])[1]/following::span[3]</value>
+      <webElementGuid>2cca61ec-fcd3-44c0-a37c-77b21928ecf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SI SCRIVE ‘V12’, SI LEGGE ‘EMOZIONE DI GUIDA’'])[1]/preceding::span[4]</value>
+      <webElementGuid>6fa3d0ec-fe8d-4a3d-9301-21523a5e8d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UN MOTORE SPORTIVO'])[1]/preceding::span[4]</value>
+      <webElementGuid>1653e4cc-622a-4ffc-b17e-c54113f15923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scopri il motopropulsore']/parent::*</value>
+      <webElementGuid>705e75df-186f-47e2-85ee-d37446d374a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span[3]</value>
+      <webElementGuid>6398ba12-1da6-4415-9c2a-63b4a73afe46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Scopri il motopropulsore' or . = 'Scopri il motopropulsore')]</value>
+      <webElementGuid>d5b0e7de-261e-4d9f-9a45-6d72fcd63bd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

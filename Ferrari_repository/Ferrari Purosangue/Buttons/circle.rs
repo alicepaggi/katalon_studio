@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>circle</name>
+   <tag></tag>
+   <elementGuidId>0e9f07f8-97b9-4a95-87f8-0842638ecd87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.Icon__icon__2tdLhZ5T.Icon__darkgrey__7znEGsMR > span.Icon__over-circle__1opWzs6L > svg > circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>circle</value>
+      <webElementGuid>d43917c3-8167-4140-91ec-90f18375d184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cx</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>18eeca97-e5ce-4fec-a959-c0114e0be0a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cy</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>bdf350e0-7966-47fe-ae2a-518675a45e54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>r</name>
+      <type>Main</type>
+      <value>11</value>
+      <webElementGuid>c47bd310-83e7-42cc-8471-35ebc21eb3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b8c6d900-420f-4485-b2df-e44022586a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[2]/div[@class=&quot;Popup__popup__1oryYety&quot;]/div[@class=&quot;PopupHorizontalSlider__container__2SwKGcJ9&quot;]/div[@class=&quot;FocusonContainer__container__2hReLTq9 HorizontalSlider__container__1-itOFG_&quot;]/div[@class=&quot;FocusonContainer__header__2pkXXFbA FocusonContainer__header--light__23tNCeZ0&quot;]/div[@class=&quot;FocusonContainer__close-left__26tgoCuw&quot;]/button[@class=&quot;BtnAction__wrapper__2lcvxx01 BtnAction__darkgrey__39dP1ybo undefined BtnAction__reverse__2uiwExsY&quot;]/span[@class=&quot;BtnAction__icon__3-znqAs5&quot;]/span[@class=&quot;Icon__icon__2tdLhZ5T Icon__darkgrey__7znEGsMR&quot;]/span[@class=&quot;Icon__over-circle__1opWzs6L&quot;]/svg[1]/circle[1]</value>
+      <webElementGuid>e3cd5a7d-74ae-4caf-9421-c88b246e3953</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

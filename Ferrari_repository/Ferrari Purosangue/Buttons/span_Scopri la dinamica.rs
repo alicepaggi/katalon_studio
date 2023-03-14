@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Scopri la dinamica</name>
+   <tag></tag>
+   <elementGuidId>2421c748-99e5-4258-8333-d4f0475631f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[6]/div/div/div/div/div/div/div[3]/button/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4188ccf4-1142-4c77-b132-a94d93630aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>BtnFocusOn__label__2bc_qABw</value>
+      <webElementGuid>135350e9-e7ee-4e88-a501-c5b9b9174d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scopri la dinamica</value>
+      <webElementGuid>f3c89d74-ab95-49ba-a4e1-51d6c7d6c560</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;page-menu-hook DefaultPage__page__2K-llOv7&quot;]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;FullImage__wrapper__NDsND7mt theme-ferrari-175&quot;]/div[@class=&quot;FullImage__action__VJME3vM9&quot;]/button[@class=&quot;BtnFocusOn__btn__2uH29qol&quot;]/span[@class=&quot;BtnFocusOn__label__2bc_qABw&quot;]</value>
+      <webElementGuid>2e3c343f-c2d1-4e6c-9ea3-5b87aa1f5d5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[6]/div/div/div/div/div/div/div[3]/button/span[3]</value>
+      <webElementGuid>15e10549-fd5f-4c18-a4bf-cf042cc101c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPORTIVI'])[1]/following::span[3]</value>
+      <webElementGuid>2e1b9e0f-5cc4-458c-8a9a-7825b7e787d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTROLLI SPORTIVI'])[1]/preceding::span[4]</value>
+      <webElementGuid>14f30954-2926-472a-a9fb-7c7bce546d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IL SISTEMA DI SOSPENSIONI ATTIVE FERRARI'])[1]/preceding::span[4]</value>
+      <webElementGuid>68f8b843-4a0b-4892-af6c-c6c0cf36f1a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Scopri la dinamica']/parent::*</value>
+      <webElementGuid>92df4477-5920-4f7c-a828-7ae51bacb4e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/div[3]/button/span[3]</value>
+      <webElementGuid>d450d94c-e54b-4695-b4a0-625ed63ec56f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Scopri la dinamica' or . = 'Scopri la dinamica')]</value>
+      <webElementGuid>92dce248-d024-4b75-a58f-c6007f5626d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

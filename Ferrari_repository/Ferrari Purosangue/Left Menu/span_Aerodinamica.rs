@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Aerodinamica</name>
+   <tag></tag>
+   <elementGuidId>325576a1-8ba1-4264-9e0c-39156ec35414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.stagger4.ScrollIndicatorLandscape__label-wrap__43OB7nsQ > span.ScrollIndicatorLandscape__label__1o5I5ymM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[11]/div/ul/li[4]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>97012d16-1f0c-4bcf-a935-8f69ab984744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ScrollIndicatorLandscape__label__1o5I5ymM</value>
+      <webElementGuid>7bfdc39a-3ed0-4881-9ba6-6ebf979dd19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aerodinamica</value>
+      <webElementGuid>60d600f2-1f9c-4690-a1dc-7d270f77e88c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;page-menu-hook DefaultPage__page__2K-llOv7&quot;]/div[1]/div[11]/div[@class=&quot;ScrollIndicatorLandscape__container__2SttYbEv ScrollIndicatorLandscape__opened__1l4x8RPW theme-ferrari-dark&quot;]/ul[@class=&quot;ScrollIndicatorLandscape__list__21DZQRN2&quot;]/li[4]/span[@class=&quot;stagger4 ScrollIndicatorLandscape__label-wrap__43OB7nsQ&quot;]/span[@class=&quot;ScrollIndicatorLandscape__label__1o5I5ymM&quot;]</value>
+      <webElementGuid>754795e9-57bb-4710-9157-d7456c18d6fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[11]/div/ul/li[4]/span/span</value>
+      <webElementGuid>0895290a-d5de-489a-a9d7-2c856b877a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design'])[2]/following::span[2]</value>
+      <webElementGuid>50e45997-4f52-4218-9d55-560993271b96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TELAIO E SCOCCA'])[2]/following::span[4]</value>
+      <webElementGuid>9b182edf-f284-4775-b43f-6c708324b6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DINAMICA VEICOLO'])[2]/preceding::span[1]</value>
+      <webElementGuid>609f388f-605b-4c23-8ac6-ad63a8a27031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interni'])[2]/preceding::span[3]</value>
+      <webElementGuid>aa033913-2948-4ec5-a8ac-acda9f33239d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/span/span</value>
+      <webElementGuid>f86539e2-fe68-4380-9af5-1c576cdaa00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Aerodinamica' or . = 'Aerodinamica')]</value>
+      <webElementGuid>7ab0a4a9-9610-423c-8378-ebba1d59a61d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

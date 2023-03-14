@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Scopri di pi</name>
+   <tag></tag>
+   <elementGuidId>e000f83b-66bd-4397-a255-b4f43499a666</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.FullVideo__action__EPiP7vSZ > button.BtnFocusOn__btn__2uH29qol > span.BtnFocusOn__label__2bc_qABw</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[3]/div/div/div/div/div/div/div[5]/button/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e006b115-07f7-4042-b25b-f45748d96f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>BtnFocusOn__label__2bc_qABw</value>
+      <webElementGuid>8585a67e-b35a-46fd-8bcb-9b2bc1fd433d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Scopri di più</value>
+      <webElementGuid>2583cc52-f3f7-4749-9256-c6d0fa59ada9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;page-menu-hook DefaultPage__page__2K-llOv7&quot;]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;FullVideo__wrapper__22XZOW_V theme-ferrari-175&quot;]/div[@class=&quot;FullVideo__action__EPiP7vSZ&quot;]/button[@class=&quot;BtnFocusOn__btn__2uH29qol&quot;]/span[@class=&quot;BtnFocusOn__label__2bc_qABw&quot;]</value>
+      <webElementGuid>e400284a-dbe4-4d29-8774-20bbe6302921</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[3]/div/div/div/div/div/div/div[5]/button/span[3]</value>
+      <webElementGuid>d7b787ce-7f7e-48e6-b413-5cb72c458f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POSTI'])[1]/following::span[3]</value>
+      <webElementGuid>b3e2e624-66a4-48c2-b4e6-d03fdd419d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UNA VERA QUATTRO POSTI'])[1]/preceding::span[4]</value>
+      <webElementGuid>4d7c06c5-e186-48a9-9310-3063ee255ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUOVE PROPORZIONI'])[1]/preceding::span[4]</value>
+      <webElementGuid>baab4bf2-ce81-4134-886b-ec5e71713eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/span[3]</value>
+      <webElementGuid>a19d5e59-78fc-4d8f-9d3d-1dbb2135bb46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Scopri di più' or . = 'Scopri di più')]</value>
+      <webElementGuid>c846085b-1cb5-4f06-ad1e-c75cea24d97f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

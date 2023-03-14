@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MotopropulsoreTELAIO E SCOCCADesignAero_f1f1cb</name>
+   <tag></tag>
+   <elementGuidId>4fff3ad0-be65-4f38-bde5-14bb871cb7b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ScrollIndicatorLandscape__container__2SttYbEv.ScrollIndicatorLandscape__opened__1l4x8RPW.theme-ferrari-175</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[11]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>782596cb-afa9-4b76-b8b6-5eef6947b1a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ScrollIndicatorLandscape__container__2SttYbEv ScrollIndicatorLandscape__opened__1l4x8RPW theme-ferrari-175</value>
+      <webElementGuid>6876568d-1a7e-4bf3-8163-ca592ce9699e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MotopropulsoreTELAIO E SCOCCADesignAerodinamicaDINAMICA VEICOLOInterniSpecifiche tecnicheMedia GalleryPartners</value>
+      <webElementGuid>af04fb9a-bb23-4347-af90-138719c93648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;page-menu-hook DefaultPage__page__2K-llOv7&quot;]/div[1]/div[11]/div[@class=&quot;ScrollIndicatorLandscape__container__2SttYbEv ScrollIndicatorLandscape__opened__1l4x8RPW theme-ferrari-175&quot;]</value>
+      <webElementGuid>eb827a17-0486-41ad-aa54-ffd18cbefb52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[11]/div</value>
+      <webElementGuid>51a63c62-d838-4f17-b12a-264d4b4f7867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZF'])[1]/following::div[2]</value>
+      <webElementGuid>9709e2db-2985-4fcb-8e30-2dedb8ab02b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VALEO'])[1]/following::div[2]</value>
+      <webElementGuid>17a10bea-80f0-4ee1-a86b-d4ea2509ff9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div</value>
+      <webElementGuid>92fa0bcd-5518-4eeb-875e-38060be7c808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'MotopropulsoreTELAIO E SCOCCADesignAerodinamicaDINAMICA VEICOLOInterniSpecifiche tecnicheMedia GalleryPartners' or . = 'MotopropulsoreTELAIO E SCOCCADesignAerodinamicaDINAMICA VEICOLOInterniSpecifiche tecnicheMedia GalleryPartners')]</value>
+      <webElementGuid>0eb0c100-d1af-4957-b84c-763b6aa58676</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

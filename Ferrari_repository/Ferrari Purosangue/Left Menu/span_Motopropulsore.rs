@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Motopropulsore</name>
+   <tag></tag>
+   <elementGuidId>bf98c4d7-2f8f-4a70-ba87-0bd13cc67eb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ScrollIndicatorLandscape__label__1o5I5ymM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[11]/div/ul/li/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50128189-3656-4eba-bd36-3816a24b6055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ScrollIndicatorLandscape__label__1o5I5ymM</value>
+      <webElementGuid>bbc0981e-982f-4321-b710-9dc18aeaf2e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Motopropulsore</value>
+      <webElementGuid>9808166c-6724-4f58-a2f4-e538b7fb5ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;page-menu-hook DefaultPage__page__2K-llOv7&quot;]/div[1]/div[11]/div[@class=&quot;ScrollIndicatorLandscape__container__2SttYbEv ScrollIndicatorLandscape__opened__1l4x8RPW theme-ferrari-175&quot;]/ul[@class=&quot;ScrollIndicatorLandscape__list__21DZQRN2&quot;]/li[1]/span[@class=&quot;stagger1 ScrollIndicatorLandscape__label-wrap__43OB7nsQ&quot;]/span[@class=&quot;ScrollIndicatorLandscape__label__1o5I5ymM&quot;]</value>
+      <webElementGuid>4d6d58b9-6a0b-498a-b110-bd1867c0556e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[11]/div/ul/li/span/span</value>
+      <webElementGuid>4745fde5-401c-4df9-aa68-fae4665c0e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZF'])[1]/following::span[2]</value>
+      <webElementGuid>1d7aec28-475e-48d5-bd24-9273cf120449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VALEO'])[1]/following::span[2]</value>
+      <webElementGuid>faa06b5e-9fc7-4293-a8c7-be0a6f745c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TELAIO E SCOCCA'])[2]/preceding::span[1]</value>
+      <webElementGuid>12d18faf-4008-48e5-99f4-54f1eed36e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design'])[2]/preceding::span[3]</value>
+      <webElementGuid>48a38905-ae70-4566-a250-b2fa79b03457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span/span</value>
+      <webElementGuid>bf53b80c-44ba-41e7-8fbf-9a82987dde87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Motopropulsore' or . = 'Motopropulsore')]</value>
+      <webElementGuid>93c4d794-46f5-43f3-a7a8-59f5c822b012</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

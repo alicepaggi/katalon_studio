@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Interni</name>
+   <tag></tag>
+   <elementGuidId>80b8c4b8-812f-4a1b-9046-76944cab78aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.stagger6.ScrollIndicatorLandscape__label-wrap__43OB7nsQ > span.ScrollIndicatorLandscape__label__1o5I5ymM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[11]/div/ul/li[6]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bc7ef39-d97a-43f8-be39-93cf316b2e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ScrollIndicatorLandscape__label__1o5I5ymM</value>
+      <webElementGuid>e483294a-5f4d-42ed-a76a-ce036b61324f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interni</value>
+      <webElementGuid>1287f3b9-432d-4f7f-be28-aaa05e810624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;page-menu-hook DefaultPage__page__2K-llOv7&quot;]/div[1]/div[11]/div[@class=&quot;ScrollIndicatorLandscape__container__2SttYbEv ScrollIndicatorLandscape__opened__1l4x8RPW theme-ferrari-dark&quot;]/ul[@class=&quot;ScrollIndicatorLandscape__list__21DZQRN2&quot;]/li[6]/span[@class=&quot;stagger6 ScrollIndicatorLandscape__label-wrap__43OB7nsQ&quot;]/span[@class=&quot;ScrollIndicatorLandscape__label__1o5I5ymM&quot;]</value>
+      <webElementGuid>554f743d-365b-49eb-bdf1-ffa1949b1b4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[11]/div/ul/li[6]/span/span</value>
+      <webElementGuid>1b01238e-108f-443b-b145-ae992820195a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DINAMICA VEICOLO'])[2]/following::span[2]</value>
+      <webElementGuid>912e8b69-9563-4010-9f2f-e21fdcd17b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aerodinamica'])[2]/following::span[4]</value>
+      <webElementGuid>178c3547-f4d8-495d-88fb-5657ad5e80b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specifiche tecniche'])[2]/preceding::span[1]</value>
+      <webElementGuid>72f016de-672b-4d5b-8e5b-14534f916ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media Gallery'])[5]/preceding::span[3]</value>
+      <webElementGuid>bc365513-6ace-4bad-9f1b-2e738ca588c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/span/span</value>
+      <webElementGuid>83744a04-e81b-44dc-8b01-48324b32f7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Interni' or . = 'Interni')]</value>
+      <webElementGuid>6d7f7f8a-f141-4aa1-af4c-9544c2807494</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

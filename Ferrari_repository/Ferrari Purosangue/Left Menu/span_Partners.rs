@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Partners</name>
+   <tag></tag>
+   <elementGuidId>e745e266-9d29-446f-8729-df419c119eda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.stagger9.ScrollIndicatorLandscape__label-wrap__43OB7nsQ > span.ScrollIndicatorLandscape__label__1o5I5ymM</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[11]/div/ul/li[9]/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>60d59cec-6aea-45e4-9514-0cc8ac3292f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ScrollIndicatorLandscape__label__1o5I5ymM</value>
+      <webElementGuid>6dff79d4-21ef-40f2-9680-22119b8b0026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Partners</value>
+      <webElementGuid>a489055c-407b-42c6-8b7a-54d73e2c05e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;page-menu-hook DefaultPage__page__2K-llOv7&quot;]/div[1]/div[11]/div[@class=&quot;ScrollIndicatorLandscape__container__2SttYbEv ScrollIndicatorLandscape__opened__1l4x8RPW theme-ferrari-dark&quot;]/ul[@class=&quot;ScrollIndicatorLandscape__list__21DZQRN2&quot;]/li[9]/span[@class=&quot;stagger9 ScrollIndicatorLandscape__label-wrap__43OB7nsQ&quot;]/span[@class=&quot;ScrollIndicatorLandscape__label__1o5I5ymM&quot;]</value>
+      <webElementGuid>4709cde8-87fe-4352-8283-53e102ed7dad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[11]/div/ul/li[9]/span/span</value>
+      <webElementGuid>9ce9d869-45a9-4188-ab64-7a60cbc2f3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media Gallery'])[5]/following::span[2]</value>
+      <webElementGuid>c2507903-f8c9-4f45-91a8-70d9b5457aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specifiche tecniche'])[2]/following::span[4]</value>
+      <webElementGuid>aacb58c9-9100-4246-9dd1-36de33a95919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vuoi restare aggiornato sulle ultime novità?'])[1]/preceding::span[1]</value>
+      <webElementGuid>97f18b8c-7072-479d-b5e7-593489924bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto'])[6]/preceding::span[5]</value>
+      <webElementGuid>a5bb5d81-3f3f-4ab7-bb37-ea05c5c694de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/span/span</value>
+      <webElementGuid>1303681d-b7aa-4056-8ae0-9454085c1ea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Partners' or . = 'Partners')]</value>
+      <webElementGuid>5cbdcb31-25bf-452c-aee2-12940165f677</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
